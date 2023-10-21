@@ -15,9 +15,7 @@ Python 3.7 or later
 The Machine Learning solution is developed with python notebook that runs on SageMaker using pyspark and python as underlying execution code.
 
 1. Build the machine learning solution
-Clone the machine-learning-for-telecommunications from GitHub repository:
-
-git clone https://github.com/awslabs/machine-learning-for-telecommunications
+Clone the machine-learning-for-telecommunications
 
 2. Build the machine learning solution for deployment
 Build the distributable:
@@ -61,7 +59,4 @@ Deploy the Machine Learning solution to your account by launching a new AWS Clou
 Currently, the Machine Learning solution can be deployed in the following regions: [ us-east-1, us-east-2, us-west-2, eu-west-1, eu-central-1, ap-northeast-1, ap-northeast-2, ap-southeast-2 ]
 Copyright 2018-2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
-http://www.apache.org/licenses/LICENSE-2.0
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
